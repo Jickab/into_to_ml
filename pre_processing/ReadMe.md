@@ -1,0 +1,1 @@
+this files for learning how to use numpy libraries for ndarray operations.
